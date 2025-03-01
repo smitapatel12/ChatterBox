@@ -31,8 +31,8 @@ const LoginPage = () => {
               >
                 <MessageSquare className="w-6 h-6 text-primary" />
               </div>
-              <h1 className="text-2xl font-bold mt-2">Welcome Back</h1>
-              <p className="text-base-content/60">Sign in to your account</p>
+              <h1 className="text-2xl font-bold mt-2">Welcome Back!</h1>
+              <p className="text-base-content/60">Connect, chat, and stay in touch with your conversations anytime, anywhere</p>
             </div>
           </div>
 
@@ -110,8 +110,8 @@ const LoginPage = () => {
 
       {/* Right Side - Image/Pattern */}
       <AuthImagePattern
-        title={"Welcome back!"}
-        subtitle={"Sign in to continue your conversations and catch up with your messages."}
+        title={"Your chats are waiting! 💬"}
+        subtitle={"Let’s get chatting! The best conversations start here."}
       />
     </div>
   );
